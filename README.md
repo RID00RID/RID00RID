@@ -22,7 +22,7 @@ how to profile and build a game.
 ## List of game development projects
 | Project name | Development period | Description |
 |:------------:|:------------------:|:-----------:|
-| Pioner |17/01/2022 - present| UE developer in [GFA Games. PIONER](https://pionergame.com) |
+| Pioner |20/05/2020 - present| UE developer in [GFA Games. PIONER](https://pionergame.com) |
 
 <!--
 **RID00RID/RID00RID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
