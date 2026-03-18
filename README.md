@@ -81,7 +81,7 @@ how to profile and build a game.
     </tr>
    <tr>
     <td style="padding: 6px 12px;"><b>Orange Cast</b></td>
-    <td style="padding: 6px 12px;">May 2019 — Oct 2021</td>
+    <td style="padding: 6px 12px;">2019 — 2021</td>
     <td style="padding: 6px 12px;">Middle Developer</td>
     <td style="padding: 6px 12px;">
       <a href="https://store.steampowered.com/app/1194050/Orange_Cast_SciFi_Space_Action_Game/">Steam</a>
