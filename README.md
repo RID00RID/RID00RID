@@ -1,4 +1,3 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <img src="https://raw.githubusercontent.com/RID00RID/RID00RID/refs/heads/main/github-header-banner.png">
 
 My name is Dmitry, I love game development and creating programs.
