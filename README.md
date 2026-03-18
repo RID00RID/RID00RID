@@ -4,13 +4,13 @@ My name is Dmitry, I love game development and creating programs.
 I can program in C#/C++/BP for Unreal Engine 4/5 and Unity:
 
 
-🚀 ##Tech Stack
-🎮 #Game Development
+##Tech Stack
+#Game Development
 
 * Unreal Engine 4 / 5 (C++ & Blueprints)
 * Unity (C#)
 
-🧠 #Core Skills
+Core Skills
 
 * Animation Programming
 * AI (Behavior Trees, EQS, Tasks, Services)
@@ -19,14 +19,14 @@ I can program in C#/C++/BP for Unreal Engine 4/5 and Unity:
 * Audio Systems (Sound Cues, Mixers)
 * Custom Editor Tools (UE4/UE5)
 
-⚙️ #Engineering
+#Engineering
 
 * Clean & Maintainable Code
 * Refactoring & Architecture
 * Performance Profiling & Optimization
 * Automation Testing
 
-🛠 #Tools
+#Tools
 
 * Git / GitHub
 * Jenkins (CI/CD)
