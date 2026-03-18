@@ -75,6 +75,7 @@ how to profile and build a game.
     <td style="padding: 6px 12px;">May 2020 — Oct 2021</td>
     <td style="padding: 6px 12px;">Middle Developer</td>
     <td style="padding: 6px 12px;">
+      UE developer in </br>
       <a href="https://pionergame.com">Website</a>
     </td>
   </tr>
