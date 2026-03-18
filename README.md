@@ -4,16 +4,35 @@ My name is Dmitry, I love game development and creating programs.
 I can program in C#/C++/BP for Unreal Engine 4/5 and Unity:
 
 
-* Animation programming;  
-* Creating automation tests;
-* UMG: programming user interfaces;  
-* AI: programming behavior trees, tasks, decorators, services, EQS; 
-* VFX: programming Niagara Special Effects and Particle System;  
-* Writing readable, maintainable, yet fast and efficient code;  
-* Setup Unreal Engine both from stock build and from source code;  
-* Using [Jenkins](https://www.jenkins.io) to automate processes;   
-* Audio programming to create and use sound cues, classes and mixers.
-* Creating a custom editor for Unreal Engine 4/5
+##🚀 Tech Stack
+#🎮 Game Development
+
+* Unreal Engine 4 / 5 (C++ & Blueprints)
+* Unity (C#)
+
+#🧠 Core Skills
+
+* Animation Programming
+* AI (Behavior Trees, EQS, Tasks, Services)
+* UI (UMG)
+* VFX (Niagara, Particle Systems)
+* Audio Systems (Sound Cues, Mixers)
+* Custom Editor Tools (UE4/UE5)
+
+#⚙️ Engineering
+
+* Clean & Maintainable Code
+* Refactoring & Architecture
+* Performance Profiling & Optimization
+* Automation Testing
+
+#🛠 Tools
+
+* Git / GitHub
+* Jenkins (CI/CD)
+* Perforce
+* Visual Studio / VS Code
+* Unreal Build from Source
 
 I know the base architecture of the Unreal Engine, the main methods of refactoring,
 how to profile and build a game.
