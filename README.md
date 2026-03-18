@@ -75,7 +75,6 @@ how to profile and build a game.
     <td style="padding: 6px 12px;">May 2020 — Oct 2021</td>
     <td style="padding: 6px 12px;">Middle Developer</td>
     <td style="padding: 6px 12px;">
-      UE developer in </br>
       <a href="https://pionergame.com">Website</a>
     </td>
   </tr>
@@ -85,7 +84,7 @@ how to profile and build a game.
     <td style="padding: 6px 12px;">May 2019 — Oct 2021</td>
     <td style="padding: 6px 12px;">Middle Developer</td>
     <td style="padding: 6px 12px;">
-      <a href="https://store.steampowered.com/app/1194050/Orange_Cast_SciFi_Space_Action_Game/">Website</a>
+      <a href="https://store.steampowered.com/app/1194050/Orange_Cast_SciFi_Space_Action_Game/">Steam</a>
     </td>
   </tr>
 </table>
