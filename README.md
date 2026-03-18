@@ -54,7 +54,7 @@ how to profile and build a game.
 <div align="center">
 
 <h2>List of game development projects</h2>
-
+</p>
 <table style="width:700px; border-collapse: collapse; text-align: left;">
   <tr>
     <th style="border-bottom: 2px solid #ddd; padding: 6px 12px;">Project</th>
@@ -67,7 +67,6 @@ how to profile and build a game.
     <td style="padding: 6px 12px;">Oct 2021 — Present</td>
     <td style="padding: 6px 12px;">TechLead</td>
     <td style="padding: 6px 12px;">
-      Gameplay systems, AI, tools, optimization <br/>
       <a href="https://pionergame.com">Website</a>
     </td>
   </tr>
@@ -76,24 +75,19 @@ how to profile and build a game.
     <td style="padding: 6px 12px;">May 2020 — Oct 2021</td>
     <td style="padding: 6px 12px;">Middle Developer</td>
     <td style="padding: 6px 12px;">
-      Gameplay systems, AI, tools, optimization <br/>
       <a href="https://pionergame.com">Website</a>
+    </td>
+  </tr>
+    </tr>
+   <tr>
+    <td style="padding: 6px 12px;"><b>Orange Cast</b></td>
+    <td style="padding: 6px 12px;">May 2019 — Oct 2021</td>
+    <td style="padding: 6px 12px;">Middle Developer</td>
+    <td style="padding: 6px 12px;">
+      <a href="https://store.steampowered.com/app/1194050/Orange_Cast_SciFi_Space_Action_Game/">Website</a>
     </td>
   </tr>
 </table>
 
 </div>
-<!--
-**RID00RID/RID00RID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
