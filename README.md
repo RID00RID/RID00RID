@@ -53,6 +53,26 @@ how to profile and build a game.
 |:------------:|:------------------:|:-----------:|
 | Pioner |20/05/2020 - present| UE developer in [GFA Games. PIONER](https://pionergame.com) |
 
+<h2>🎮 Game Development Projects</h2>
+
+<table width="700">
+  <tr>
+    <th>Project</th>
+    <th>Period</th>
+    <th>Role</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><b>PIONER</b></td>
+    <td>May 2020 — Present</td>
+    <td>UE Developer</td>
+    <td>
+      Gameplay systems, AI, tools, optimization <br/>
+      <a href="https://pionergame.com">Website</a>
+    </td>
+  </tr>
+</table>
+
 <!--
 **RID00RID/RID00RID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
