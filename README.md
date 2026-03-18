@@ -49,24 +49,40 @@ how to profile and build a game.
 <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
 
 
-## List of game development projects
 
-<table width="100%">
+
+<div align="center">
+
+<h2>List of game development projects</h2>
+
+<table style="width:700px; border-collapse: collapse; text-align: left;">
   <tr>
-    <th>Project</th>
-    <th>Period</th>
-    <th>Description</th>
+    <th style="border-bottom: 2px solid #ddd; padding: 6px 12px;">Project</th>
+    <th style="border-bottom: 2px solid #ddd; padding: 6px 12px;">Period</th>
+    <th style="border-bottom: 2px solid #ddd; padding: 6px 12px;">Role</th>
+    <th style="border-bottom: 2px solid #ddd; padding: 6px 12px;">Description</th>
   </tr>
   <tr>
-    <td><b>PIONER</b></td>
-    <td>May 2020 — Present</td>
-    <td>
+    <td style="padding: 6px 12px;"><b>PIONER</b></td>
+    <td style="padding: 6px 12px;">Oct 2021 — Present</td>
+    <td style="padding: 6px 12px;">TechLead</td>
+    <td style="padding: 6px 12px;">
+      Gameplay systems, AI, tools, optimization <br/>
+      <a href="https://pionergame.com">Website</a>
+    </td>
+  </tr>
+   <tr>
+    <td style="padding: 6px 12px;"><b>PIONER</b></td>
+    <td style="padding: 6px 12px;">May 2020 — Oct 2021</td>
+    <td style="padding: 6px 12px;">Middle Developer</td>
+    <td style="padding: 6px 12px;">
       Gameplay systems, AI, tools, optimization <br/>
       <a href="https://pionergame.com">Website</a>
     </td>
   </tr>
 </table>
 
+</div>
 <!--
 **RID00RID/RID00RID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
