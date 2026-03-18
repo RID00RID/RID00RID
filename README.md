@@ -51,7 +51,7 @@ how to profile and build a game.
 
 ## List of game development projects
 
-<table width="700">
+<table width="100%">
   <tr>
     <th>Project</th>
     <th>Period</th>
