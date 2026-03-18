@@ -48,24 +48,18 @@ how to profile and build a game.
 <img alt="Unreal Engine" src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
 
-## List of game development projects
-| Project name | Development period | Description |
-|:------------:|:------------------:|:-----------:|
-| Pioner |20/05/2020 - present| UE developer in [GFA Games. PIONER](https://pionergame.com) |
 
-<h2>🎮 Game Development Projects</h2>
+## List of game development projects
 
 <table width="700">
   <tr>
     <th>Project</th>
     <th>Period</th>
-    <th>Role</th>
     <th>Description</th>
   </tr>
   <tr>
     <td><b>PIONER</b></td>
     <td>May 2020 — Present</td>
-    <td>UE Developer</td>
     <td>
       Gameplay systems, AI, tools, optimization <br/>
       <a href="https://pionergame.com">Website</a>
