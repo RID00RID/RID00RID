@@ -14,7 +14,7 @@ I can program in C#/C++/BP for Unreal Engine 4/5 and Unity:
 
 * Animation Programming
 * AI (Behavior Trees, EQS, Tasks, Services)
-* UI (UMG)
+* UI (UMG /Slate /CommonUI /MVVM)
 * VFX (Niagara, Particle Systems)
 * Audio Systems (Sound Cues, Mixers)
 * Custom Editor Tools (UE4/UE5)
