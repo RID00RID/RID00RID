@@ -26,6 +26,14 @@ I can program in C#/C++/BP for Unreal Engine 4/5 and Unity:
 * Performance Profiling & Optimization
 * Automation Testing
 
+### Tools 🛠
+
+* Git / GitHub
+* Jenkins (CI/CD)
+* Perforce
+* Visual Studio / VS Code
+* Unreal Build from Source
+
 ### Custom Tools & Editors 🛠
 
 I build Unreal Engine tools to speed up production and improve workflow:
@@ -36,13 +44,6 @@ I build Unreal Engine tools to speed up production and improve workflow:
 - Slate / UMG-based tools
 - Engine customization tools
 
-### Tools 🛠
-
-* Git / GitHub
-* Jenkins (CI/CD)
-* Perforce
-* Visual Studio / VS Code
-* Unreal Build from Source
 
 I know the base architecture of the Unreal Engine, the main methods of refactoring,
 how to profile and build a game.
