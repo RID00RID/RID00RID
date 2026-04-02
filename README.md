@@ -30,11 +30,11 @@ I can program in C#/C++/BP for Unreal Engine 4/5 and Unity:
 
 I build Unreal Engine tools to speed up production and improve workflow:
 
-- 🧭 Quest Editor systems
-- 🔄 State Machine editors
-- 🧱 Gameplay data editors
-- 🖥 Slate / UMG-based tools
-- ⚙ Engine customization tools
+- Quest Editor systems
+- State Machine editors
+- Gameplay data editors
+- Slate / UMG-based tools
+- Engine customization tools
 
 ### Tools 🛠
 
